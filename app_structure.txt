@@ -1,0 +1,10 @@
+
+Mobile version idea
+
+Tabs:
+Profile
+Stats
+Maps
+AI Coach
+Tournaments
+News
